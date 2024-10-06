@@ -1,0 +1,11 @@
+Name,Strength,Dexterity,Constitution,Intelligence,Wisdom,Charisma
+Human,1,1,1,1,1,1
+Dwarf,1,0,2,0,0,0
+Fading Elf,0,0,0,2,1,0
+Dim Elf,0,2,0,0,1,0
+Halfling,0,2,0,0,0,1
+Orc,2,0,1,0,0,0
+Dragonborn,0,0,2,0,0,1
+Firbolg,1,0,0,0,2,0
+Tiefling,0,0,0,1,0,2
+Godsong,0,0,0,0,1,2
